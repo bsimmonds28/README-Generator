@@ -56,8 +56,6 @@ inquirer
     },
   ])
   .then((data) => {
-    //Create name of file
-    //const filename = `${data.name.toLowerCase().split(' ').join('')}.md`;
     let licenseBadge;
 
     //Select license badge
@@ -119,9 +117,3 @@ To see more of my work, find me on GitHub at [${data.username}](https://github.c
     );
 
 });
-
-// TODO: Create a function to initialize app
-function init() {}
-
-// Function call to initialize app
-init();

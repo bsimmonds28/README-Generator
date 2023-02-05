@@ -14,10 +14,14 @@
 - [Questions](#questions)
 
 ## Installation
-In order to install inquirer, please use npm i inquirer@8.2.4.
+In order to install inquirer, please use:
+npm i inquirer@8.2.4
 
 ## Usage
-Through this project, you can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
+Through this project, you can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project. 
+
+The application will be invoked by using the following command: 
+node index.js
 
 ## Contributing
 Thank you for your interest in my project. I am excited to see your contributions. Please follow the [Contributor Covenant](https://www.contributor-covenant.org/).
